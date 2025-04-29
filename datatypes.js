@@ -30,6 +30,12 @@ let isLoggedIn = false
 
 let fruits = ["apple", "banana", "cherry",9090, true, [1,2]]; // indexed --- 0....
 
+const users = [
+    { name: "John", age: 30 },
+    { name: "Jane", age: 25 },
+    { name: "Bob", age: 35 }
+  ]; // array of objects-- JSON data -- A GLO
+
 // null - represents the intentional absence of any object value and is a primitive data type.
 let gameScore = null
 
