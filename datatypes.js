@@ -26,6 +26,7 @@ let isLoggedIn = false
     isDomestic: true,
     color: "black"
 }
+
 // array - a collection/list of elements, which can hold multiple values of any data type. Arrays can be created using square brackets.
 
 let fruits = ["apple", "banana", "cherry",9090, true, [1,2]]; // indexed --- 0....

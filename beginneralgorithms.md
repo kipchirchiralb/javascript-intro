@@ -31,3 +31,4 @@
 
 10. **Rotate Array:**
     Write a function that rotates an array to the right by one position. For example, `[1,2,3,4]` becomes `[4,1,2,3]`.
+
